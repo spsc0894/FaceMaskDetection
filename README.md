@@ -10,4 +10,4 @@ This application detects wheather a person is wearing mask/ not wearing mask/ we
 3. Execute the face_mask.py to perform inference on input stream from camera
 
 # Output
-<img src=images/with_mask>
+<img src=with_mask.png>
